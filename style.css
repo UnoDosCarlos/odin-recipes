@@ -1,0 +1,32 @@
+.homepage-title {
+   
+        font-family: monospace,sans-serif;
+        font-size: 75px;
+        color: rgb(180, 134, 35);
+        text-align:center;
+
+
+}
+
+.odin-chef {
+display:block;
+margin:0 auto;
+margin-top: -40px;
+}
+.card {
+
+        width: 400px;
+        background: rgb(175, 151, 120);
+        border:16px solid rgb(180, 134, 35);
+        display:block;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+
+
+ul{
+    display:block;
+    margin: 0 auto;
+    font-size: 40px;
+}

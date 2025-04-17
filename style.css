@@ -1,3 +1,12 @@
+
+
+body  {
+
+        background-color: bisque;
+}
+
+
+
 .homepage-title {
    
         font-family: monospace,sans-serif;
@@ -25,8 +34,23 @@ margin-top: -40px;
 
 
 
-ul{
+.homepage-list{
     display:block;
     margin: 0 auto;
     font-size: 40px;
+}
+
+.recipe-title {
+
+        font-size: 75px;
+        text-align: center;
+
+}
+
+.food-picture {
+        display:block;
+        margin:0 auto;
+        margin-top: -40px;
+
+
 }
